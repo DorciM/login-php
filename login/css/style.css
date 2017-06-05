@@ -1,0 +1,48 @@
+
+h1, legend, label {
+    color: saddlebrown;
+}
+
+label { font-size: larger}
+
+.btn {
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.btn-reset {
+    background-color: crimson;
+    color: floralwhite;
+}
+
+.btn-reset:hover {
+    background-color: #f56991;
+}
+
+.btn-verify {
+    background-color: darkslateblue;
+}
+
+.btn-verify:hover{
+    background-color: #6987f5;
+}
+
+.jumbotron > h1 {
+    text-align: -webkit-center;
+}
+
+.error{
+    color: red;
+    position: fixed;
+}
+
+.form-horizontal{    margin-left: 36%;}
+
+#msg {
+    margin-left: 36%;
+    font-size: larger;
+    text-align: -webkit-center;
+    padding-left: 5%;
+    padding-right: 5%;
+}
